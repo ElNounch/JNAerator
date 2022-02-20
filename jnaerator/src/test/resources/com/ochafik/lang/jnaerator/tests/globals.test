@@ -29,7 +29,7 @@ extern time_t *gpt;
 --
 #runtime(JNA)
 import test.*;
-import static test.TestLibrary.*;
+//import static test.TestLibrary.*;
 
 --
 #runtime(JNAerator)
